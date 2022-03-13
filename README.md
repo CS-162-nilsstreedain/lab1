@@ -83,6 +83,6 @@ Print the minimum value (1), print the maximum value (2), print the average (3),
 4
 ```
 
-In order to get credit for the lab, you need to be checked off by the end of lab. You can earn a maximum of 10 points for lab work completed outside of lab time, but you must finish before the next lab. For extenuating circumstances, contact your lab TAs and the instructor.
+*In order to get credit for the lab, you need to be checked off by the end of lab. You can earn a maximum of 10 points for lab work completed outside of lab time, but you must finish before the next lab. For extenuating circumstances, contact your lab TAs and the instructor.*
 
-Remember, you will not receive lab credit if you do not get checked off by the TA before leaving each lab. Once you have a zero on a lab, then it cannot be changed because we have no way of knowing if you were there or not!
+*Remember, you will not receive lab credit if you do not get checked off by the TA before leaving each lab. Once you have a zero on a lab, then it cannot be changed because we have no way of knowing if you were there or not!*
